@@ -6,7 +6,9 @@ Proyecto de aprendizaje realizado en el curso de Programacion con JavaScript, gr
 
 ## 🔍 Objetivos
 
-Que se aprendió con el proyecto?
+Simular el funcionamiento de un carrito de compras, agregando items, borrandolos y limpiando todo el carrito.
+
+- Profundizar en la Manipulación del DOM y el uso del LocalStorage
 
 ## ✅ Tecnologías
 
